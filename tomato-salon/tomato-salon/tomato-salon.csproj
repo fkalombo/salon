@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>tomato_salon</RootNamespace>
+    <UserSecretsId>ab2121a2-210e-43fb-ac1b-4e848965d3d6</UserSecretsId>
   </PropertyGroup>
 
 </Project>
